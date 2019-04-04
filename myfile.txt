@@ -1,9 +1,0 @@
-This is my test1
-
-add
-commit 记录索引的状态 
-
-commit   记录索引的状态2
-
-pull 取得远端数据库的内容
-
